@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\bin\Debug\net8.0\Text Data Analyzer Project.exe
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\bin\Debug\net8.0\Text Data Analyzer Project.deps.json
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\bin\Debug\net8.0\Text Data Analyzer Project.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\bin\Debug\net8.0\Text Data Analyzer Project.dll
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\bin\Debug\net8.0\Text Data Analyzer Project.pdb
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\obj\Debug\net8.0\Text Data Analyzer Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\obj\Debug\net8.0\Text Data Analyzer Project.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\obj\Debug\net8.0\Text Data Analyzer Project.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\obj\Debug\net8.0\Text Data Analyzer Project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\obj\Debug\net8.0\Text Data Analyzer Project.dll
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\obj\Debug\net8.0\refint\Text Data Analyzer Project.dll
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\obj\Debug\net8.0\Text Data Analyzer Project.pdb
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\obj\Debug\net8.0\Text Data Analyzer Project.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\obj\Debug\net8.0\ref\Text Data Analyzer Project.dll
